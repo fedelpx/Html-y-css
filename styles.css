@@ -233,6 +233,12 @@ td, th{
 
 .imgDiferencial{
     width: 60%;
+    transition: 400ms;
+    box-shadow: 10px 10px 30px 15px black;
+}
+
+.imgDiferencial:hover{
+    opacity: 0.3;
 }
 
 .video{
